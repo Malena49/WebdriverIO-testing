@@ -2,7 +2,8 @@
 
 ## Présentation
 
-Web Testing avec WebdriverIO sur https://the-internet.herokuapp.com/
+Web Testing avec WebdriverIO <br>
+Site utilisé :  https://the-internet.herokuapp.com/
 
 ### Pré-requis
 
