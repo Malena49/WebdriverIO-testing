@@ -3,7 +3,7 @@
 ## Présentation
 
 Web Testing avec WebdriverIO et Allure report<br>
-Site utilisé :  https://the-internet.herokuapp.com/
+Site testé :  https://the-internet.herokuapp.com/
 
 ### Pré-requis
 
