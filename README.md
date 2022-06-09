@@ -7,7 +7,7 @@ Site testé :  https://the-internet.herokuapp.com/
 
 ### Pré-requis
 
-- Télécharger Node.js
+- Télécharger Node.js 
 - Télécharger Chrome
 - Télécharger chromedriver et l'ajouter dans le PATH
 
